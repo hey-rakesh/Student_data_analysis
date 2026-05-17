@@ -1,20 +1,40 @@
-# Student Data Analysis 📊
+# 🎓 Student Performance Dashboard
 
-A Streamlit-based dashboard for analyzing student data.
+A Streamlit-based Data Analysis Dashboard that allows users to upload CSV files and analyze student data interactively.
 
-## Features
-- Interactive charts
-- Data analysis
-- CSV support
-- Visualization dashboard
+---
 
-## Technologies Used
+## 🚀 Live Demo
+
+[https://your-app-name.streamlit.app](https://studentdataanalysis-g7thsiygutmbkssnbpskkv.streamlit.app/)
+
+---
+
+## 📌 Features
+
+- 📂 Upload CSV files
+- 📊 Student Data Analysis
+- 🧮 Data Processing using Pandas
+- 🎨 Interactive Streamlit Interface
+- ⚡ Simple and User-Friendly Dashboard
+
+---
+
+## 🛠️ Technologies Used
+
 - Python
 - Pandas
-- Matplotlib
+- NumPy
 - Streamlit
 
-## Run Project
+---
 
-```bash
-streamlit run app.py
+## 📁 Project Structure
+
+```text
+student_data_analysis/
+│
+├── app.py
+├── data.csv
+├── requirements.txt
+└── README.md
