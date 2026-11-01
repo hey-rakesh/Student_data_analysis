@@ -4,7 +4,7 @@ A Streamlit-based Data Analysis Dashboard that allows users to upload CSV files 
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo app
 
 [https://your-app-name.streamlit.app](https://studentdataanalysis-g7thsiygutmbkssnbpskkv.streamlit.app/)
 
