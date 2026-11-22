@@ -23,7 +23,7 @@ A Streamlit-based Data Analysis Dashboard that allows users to upload CSV files 
 ## 🛠️ Technologies Used
 
 - Python
-- Pandas
+- Panda
 - NumPy
 - Streamlit
 
